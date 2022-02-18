@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RepoViewer</string>
+    <string name="try_again">Try again</string>
+    <string name="no_internet">No network connection</string>
+    <string name="profile_image_view">Profile image view</string>
+    <string name="welcome">Welcome</string>
+    <string name="trending_repositories">Trending Repositories</string>
+    <string name="search_title">Search</string>
+</resources>
